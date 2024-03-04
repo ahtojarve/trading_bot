@@ -1,3 +1,5 @@
 test.py
 .ipynb_checkpoints
 data
+.DS_store
+reports
